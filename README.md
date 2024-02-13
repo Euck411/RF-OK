@@ -1,1 +1,1 @@
-Spatial Prediction of Soil Contaminants using a Hybrid Ran-dom Forest–Ordinary Kriging Model
+Spatial Prediction of Soil Contaminants using a Hybrid Random Forest–Ordinary Kriging Model
